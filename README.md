@@ -1,7 +1,10 @@
 Overview
+
 The SBA Automation Framework is a Cypress-based automated testing solution designed for regression testing of the Small Business Administration (SBA) website. The SBA website is a public-facing platform maintained by the U.S. federal government to showcase information about small businesses across the United States, including their contact details, services, and other relevant data. This framework aims to ensure the reliability, functionality, and consistency of the website by automating repetitive testing tasks.
 This project was initiated to streamline quality assurance efforts for the SBA website but remains incomplete due to layoffs and contract terminations enacted by the new administration in 2025.
+
 Purpose
+
 The primary goal of this framework is to:
 Automate regression testing for the SBA website to validate core functionalities after updates or changes.
 
